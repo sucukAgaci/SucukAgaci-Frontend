@@ -1,3 +1,2 @@
 # SucukAgaci-Frontend
-# BilStopResources
-# BilStopResources
+# Follow path: app/src/main/res/layout to reach .xml layout design codes
