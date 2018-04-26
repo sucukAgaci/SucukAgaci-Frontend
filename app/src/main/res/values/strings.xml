@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BilStop</string>
+    <string name="title_activity_otostop_ekrani">OtostopEkrani</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+</resources>
