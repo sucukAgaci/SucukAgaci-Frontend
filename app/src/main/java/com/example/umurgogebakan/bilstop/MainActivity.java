@@ -38,10 +38,10 @@ public class MainActivity extends AppCompatActivity {
 
     Switch switchBtn;
 
-    String realUserName4Surucu = "umur.fatih";
+    String realUserName4Surucu = "umur.omer";
     String realPassword4Surucu = "123";
 
-    String realUserName4Otostop = "fatih.umur.gokhan";
+    String realUserName4Otostop = "omer.umur";
     String realPassword4Otostop = "1234";
 
     @Override
